@@ -4,8 +4,5 @@ You should sell your soul to study
 Git has a mutable index called stage.
 Git tracks changes
 Different is nothing 
-<<<<<<< HEAD
 Creating a branch is so quick & simple
-=======
 Creating a branch is so quick and simple
->>>>>>> feature1
